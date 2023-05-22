@@ -5,4 +5,4 @@ Code requests can be sent to the principal investigator of the project, Dr Vivie
 
 Acknowledgment: This research was supported by Multiple Sclerosis Australia Incubator Grant (Grant no. 21-1-110), Illawarra Health and Medical Research Institute Young Investigator Award, NCI Adapter Allocation Scheme and UOW/NCI Partner Share Scheme. VG was supported by Multiple Sclerosis Australia Postdoctoral Fellowship (Grant no. 20-223).
 
-Please consider citing: Bhanu Prakash Voutharoja, Peng Wang, Lei Wang, and Vivienne Guan. 2023. MALM: Mask Augmentation based Local Matching for Food-Recipe Retrieval.https://arxiv.org/pdf/2305.11327.pdf
+Please consider citing: Bhanu Prakash Voutharoja, Peng Wang, Lei Wang, and Vivienne Guan. 2023. MALM: Mask Augmentation based Local Matching for Food-Recipe Retrieval. https://arxiv.org/pdf/2305.11327.pdf
